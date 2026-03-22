@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Ran linter, applied auto-fixes
 - Tidied up project structure
+
+## 2026-03-23
+- Drafted initial implementation plan for v2
+- Verified API endpoint response schema
